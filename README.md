@@ -29,4 +29,3 @@ They were created with a custom component consistant of 2 parts.
 
 #### For questions and troubleshooting, please contact:  
 Alfredo Barajas Enriquez  
-axb0089@mavs.uta.edu  
