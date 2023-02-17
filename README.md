@@ -15,6 +15,9 @@ They were created with a custom component consistant of 2 parts.
 **Pitch**: 0.8 mm  
 <img src="./ReadMeImages/HolePitch.png" width="80%">  
   
+**Calculation of Pitch = a**  
+<img src="./ReadMeImages/DistanceCalculations.png" width="75%">   
+  
 ### Layers of the PCB
 **Three layers to the PCB Design**  
 <img src="./ReadMeImages/PCBLayers.png" width="80%">  
