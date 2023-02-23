@@ -4,18 +4,22 @@ They were created with a custom component consistant of 2 parts.
     
 
 ### Dimensions of the Board 
-<img src="./ReadMeImages/BoardSize.png" width="80%">
-
-### Hole Dimensions  
+-Outer Ring (60 mm in Diamater)  
+-Copper Circle (80 mm in Diamater)  
+<img src="./ReadMeImages/BoardSize.png" width="80%">  
+  
+### GEM-Hole Dimensions  
 -Edge Cut (0.4 mm in Diameter)  
 -No Fill Zone (0.42 mm in Diameter) #Only included in the Clearance Version  
 <img src="./ReadMeImages/HoleClearance.png" width="80%">  
   
-### Distance between Holes
-**Pitch**: 0.8 mm  
+### Distance between GEM-Holes
+**Pitch**: 0.8 mm (Distance Between the Center of Holes)  
 <img src="./ReadMeImages/HolePitch.png" width="80%">  
   
-**Calculation of Pitch = a**  
+**Hole Density Settings**  
+-Pitch Distance = a (0.8 mm ::: For This Design)  
+-Tile Distances are calculated with the image bellow  
 <img src="./ReadMeImages/DistanceCalculations.png" width="75%">   
   
 ### Layers of the PCB
