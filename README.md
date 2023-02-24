@@ -4,8 +4,8 @@ They were created with a custom component consistant of 2 parts.
     
 
 ### Dimensions of the Board 
--Outer Ring (60 mm in Diamater)  
--Copper Circle (80 mm in Diamater)  
+-Outer Ring (80 mm in Diamater)  
+-Copper Circle (60 mm in Diamater)  
 <img src="./ReadMeImages/BoardSize.png" width="80%">  
   
 ### Distance between GEM-Holes
