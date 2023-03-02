@@ -23,12 +23,8 @@ They were created with a custom component consistant of 2 parts.
 <img src="./ReadMeImages/DistanceCalculations.png" width="55%">   
   
 ### ::: Layers of the PCB :::  
-**Three layers to the PCB Design**  
+**Five (F.Mask and B.Mask are Negative) layers to the PCB Design**  
 <img src="./ReadMeImages/PCBLayers.png" width="60%">  
-  
-### ::: Gerber Plot Settings :::  
-**The Settings of the Gerber files created in this repository using [Plot]**  
-<img src="./ReadMeImages/GerberOutput.png" width="60%">
 
 
 ### ::: Required Programs :::  
