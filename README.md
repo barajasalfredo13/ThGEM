@@ -27,7 +27,7 @@ They were created with a custom component consistant of 2 parts.
 <img src="./ReadMeImages/PCBLayers.png" width="60%">  
   
 ### ::: Gerber Plot Settings :::  
-**The Settings of the Gerber files created in this repository**  
+**The Settings of the Gerber files created in this repository using [Plot]**  
 <img src="./ReadMeImages/GerberOutput.png" width="60%">
 
 
