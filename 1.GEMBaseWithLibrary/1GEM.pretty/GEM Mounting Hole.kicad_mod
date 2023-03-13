@@ -1,0 +1,17 @@
+(footprint "GEM Mounting Hole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 2.54 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 68a04a5c-8b07-4ae4-b8d4-246877567931)
+  )
+  (fp_text value "GEM Mounting Hole" (at 0 4.04 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3e69db42-5e94-4ac2-8825-d7f9ed0a081b)
+  )
+  (fp_text user "${REFERENCE}" (at 0 5.54 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a55ac072-64b5-4e88-9282-c311bfe2278c)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 6.35 6.35) (drill 6.35) (layers "F&B.Cu" "*.Mask") (tstamp 71530476-9b9f-42b4-93d5-69a81dcaa37c))
+)
